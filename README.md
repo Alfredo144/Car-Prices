@@ -1,2 +1,2 @@
-# Chicago-Crime-Census-and-Schools
-Analsysis of Chicago Crime, Census, and Schools Data
+# Car Prices
+Analsysis of Car Prices
